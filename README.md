@@ -1,4 +1,4 @@
-# 🥸 Gustavo Zatti
+# 🤠 Gustavo Zatti
 
 **`Desenvolvedor Front-End Jr`**
 
