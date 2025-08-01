@@ -1,10 +1,12 @@
 # 🤠 Gustavo Zatti
 
-**`Desenvolvedor Front-End Jr`**
+**`Desenvolvedor Front-End`**
 
 Sou um desenvolvedor Front-End com experiência em **JavaScript, TypeScript, React e Node.js**. Atualmente, estou aprimorando minhas habilidades em **React e Ruby**, explorando novas tecnologias para criar interfaces modernas e eficientes.
 
 Atualmente, trabalho no desenvolvimento do website da [Zatti Ambientes Planejados](https://www.zattiambientes.com.br), focando na modernização digital da empresa e na otimização de processos internos. Busco sempre entregar **código de qualidade, interfaces intuitivas e experiências fluidas**.
+
+Dê uma olhadinha no meu [Portfólio](https://www.zattiambientes.com.br)
 
 <div> 
   <a href="https://instagram.com/gustavozatti.png" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
