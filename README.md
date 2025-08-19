@@ -28,7 +28,6 @@ Busco entregar **código de qualidade, interfaces intuitivas e experiências flu
   <img alt="jQuery" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
   <img alt="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img alt="Bootstrap" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-  <img alt="Ruby" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"/>
   <img alt="Python" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img alt="C++" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 </div>
