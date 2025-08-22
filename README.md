@@ -51,7 +51,7 @@
 ### 🔥 Destaques
 - **Zatti Ambientes Planejados — Website**  
   Site institucional responsivo com **SEO on-page** e otimizações de performance (imagens, lazy, CTAs rastreáveis).  
-  🔗 https://www.zattiam bientes.com.br
+  🔗 https://www.zattiambientes.com.br
 
 - **Message Board — Mural interativo**  
   App **Node.js/Express + MySQL** com persistência e módulos JS.  
