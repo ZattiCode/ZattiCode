@@ -1,32 +1,44 @@
-# 🤠 Gustavo Zatti
-**Desenvolvedor Full Stack**
+<!-- Hero -->
+<div align="center">
 
-Sou desenvolvedor com foco em **JavaScript, TypeScript, React e Node.js**.  
-Atualmente modernizo o site da **[Zatti Ambientes Planejados](https://www.zattiambientes.com.br)** e crio soluções que conectam **negócio + UX + código limpo**.
+<h1>🤠 Gustavo Zatti</h1>
+<p><strong>Desenvolvedor Full Stack</strong></p>
 
-🔗 **Portfólio:** https://zatticode.github.io/portfolio  
-📬 **E-mail:** devgustavozatti@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/gustavozatti
+<p>
+  <b>JavaScript · TypeScript · React · Node.js</b><br/>
+  Modernizo experiências digitais com foco em <b>performance</b>, <b>UX</b> e <b>código limpo</b>.
+</p>
+
+<!-- Quick links -->
+<a href="https://zatticode.github.io/portfolio">
+  <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:devgustavozatti@gmail.com">
+  <img alt="E-mail" src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/gustavozatti">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 Sobre mim
-- Construo **front-ends performáticos** e **APIs enxutas** com boas práticas.
-- Experiência com **rastreio aéreo em tempo real** (integração com mapas e sistemas táticos) e **gestão financeira** (CRUD/relatórios).  
-- Inglês **C1** (avançado).
+### ✨ O que você vai encontrar aqui
+- **Interfaces enxutas** e acessíveis (sem bloat, foco no essencial).
+- **APIs objetivas** em Node.js (Express, REST, SQL) com boas práticas.
+- **Entrega cuidada**: semântica, performance, versionamento claro e docs breves.
 
 ---
 
-## 🧰 Tech Stack
+### 🛠️ Toolbox
 <div align="left">
   <img alt="JS" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="TS" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   <img alt="React" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img alt="Next.js" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
   <img alt="Node" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
   <img alt="Express" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
   <img alt="MySQL" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img alt="PHP" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
   <img alt="HTML" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img alt="CSS" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img alt="Tailwind" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
@@ -36,48 +48,34 @@ Atualmente modernizo o site da **[Zatti Ambientes Planejados](https://www.zattia
 
 ---
 
-## 🧩 Projetos em destaque
-- **Zatti Ambientes Planejados – Website**  
-  Site institucional **responsivo** com **SEO on-page** e otimizações de performance (lazy-load, imagens, CTAs rastreáveis).  
-  🔗 https://www.zattiambientes.com.br
+### 🔥 Destaques
+- **Zatti Ambientes Planejados — Website**  
+  Site institucional responsivo com **SEO on-page** e otimizações de performance (imagens, lazy, CTAs rastreáveis).  
+  🔗 https://www.zattiam bientes.com.br
 
-- **Message Board – Mural interativo**  
-  App **Node.js/Express + MySQL** com módulos JS e persistência em banco.  
+- **Message Board — Mural interativo**  
+  App **Node.js/Express + MySQL** com persistência e módulos JS.  
   ▶️ Demo: https://messageboard-production-ff7b.up.railway.app/  
   💻 Código: https://github.com/ZattiCode/message_board
 
-- **Bikcraft – Landing Page**  
-  LP responsiva focada em **performance** e sem dependências desnecessárias.  
+- **Bikcraft — Landing page performática**  
+  LP responsiva focada em **velocidade** e **boa estrutura semântica**.  
   ▶️ Demo: https://zatticode.github.io/bikcraft  
   💻 Código: https://github.com/ZattiCode/bikcraft
 
-> Mais no portfólio: https://zatticode.github.io/portfolio
+> Veja mais no portfólio: **https://zatticode.github.io/portfolio**
 
 ---
 
-## 💼 Experiência
-- **Front End – Zatti Ambientes Planejados** *(dez/2024 – atual)*  
-  Criação e evolução do site; **sistema financeiro CRUD** com Node.js/Express/MySQL; automações e melhorias UX.
-
-- **Analista de Sistemas (Estágio) – Helisul Engenharia** *(jun/2024 – dez/2024)*  
-  **Projeto Falcão 12 (BPMOA/PM-PR):** rastreamento de helicópteros em **tempo real** com geolocalização e integração a **ATAK/WinTAK** (JS/TS, React, Leaflet, PHP, MySQL).
+### 📌 Agora
+- Evolução contínua do site da **Zatti Ambientes Planejados**.  
+- Refino do meu **portfólio** (acessibilidade, CLS e carregamento).  
+- Estudos focados em **boas práticas React** e **design de APIs em Node**.
 
 ---
 
-## 🎓 Formação
-**Análise e Desenvolvimento de Sistemas – Universidade Positivo (2024)**
-
----
-
-## 📫 Contato
-<a href="mailto:devgustavozatti@gmail.com"><img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/gustavozatti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/gustavozatti" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
----
-
-## 📊 GitHub Stats
+### 📈 GitHub em números
 <div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZattiCode&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZattiCode&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZattiCode&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZattiCode&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
